@@ -23,7 +23,7 @@ Blog Post | Video | Graphs and Models | Laws and Adages | Book | Website
 :---: | :---: | :---: | :---: | :---: | :---:
 :pencil: | :movie_camera: | :chart_with_upwards_trend: | :guardsman: | :book: | :link:
 
-## In English
+## In English 🎯 
 
 Type | Title | Domains | Is a Must? | Inside of Topic
 --- | ---  | :---: | :---: | ---
@@ -62,7 +62,7 @@ Type | Title | Domains | Is a Must? | Inside of Topic
 :book: | [Kanban, David J. Anderson](https://www.amazon.com/gp/product/B0057H2M70/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
 :book: | [Disney U, Doug Lipp](https://www.amazon.com.br/dp/B00BDE68E4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) | :heartpulse: | | Culture |
 
-## In Portuguese
+## In Portuguese 🎯 
 
 Tipo | Título | Domínios | É um Must? | Dentro do Assunto
 --- | ---  | :---: | :---: | ---
